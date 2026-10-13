@@ -12,7 +12,6 @@
 ### *"Smarter Roads. Safer Journeys. Better Cities."*
 
 **Developer Credit:** **Developed by Anil Biradar**  
-**Institution / Origin:** Dayananda Sagar College of Engineering Project Demonstration  
 **Repository:** [https://github.com/Anilbirada/RouteXAI](https://github.com/Anilbirada/RouteXAI)
 
 </div>
@@ -61,7 +60,7 @@ Designed for smart-city demonstrations, college project presentations, and urban
   - 🟧 **Vehicle Breakdowns**
   - 🔵 **Waterlogging & Stormwater Stagnation**
   - 🟣 **Pavement & Debris Hazards**
-- **Corridor Focus Jumps**: 1-click coordinate jumps to key urban hubs (Dayananda Sagar College DSCE, Silk Board Flyover, Banashankari Underpass, Kanakapura Corridor, South End Circle).
+- **Corridor Focus Jumps**: 1-click coordinate jumps to key urban hubs (Central Tech Corridor, Silk Board Flyover, Banashankari Underpass, Kanakapura Corridor, South End Circle).
 - **Interactive Layer Controls**: Toggle incidents, closure boundaries, hotspot circles, and historical resolved records.
 - **Right-Click Reporting**: Right-click anywhere on the map to automatically capture exact coordinates and open the report filing modal.
 
@@ -315,5 +314,4 @@ RouteX AI is built on honesty and transparent data provenance:
 - **Project Name**: **RouteX AI**
 - **Tagline**: *"Smarter Roads. Safer Journeys. Better Cities."*
 - **Developer Credit**: **Developed by Anil Biradar**
-- **Academic Context**: Dayananda Sagar College of Engineering Project Demonstration
 - **GitHub Repository**: **[https://github.com/Anilbirada/RouteXAI](https://github.com/Anilbirada/RouteXAI)**
